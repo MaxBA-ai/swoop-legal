@@ -1,6 +1,6 @@
-# Swoop Legal
+# PhotoSwoop Legal
 
-Legal documents for the Swoop iOS app.
+Legal documents for the PhotoSwoop iOS app.
 
 ## Documents
 
